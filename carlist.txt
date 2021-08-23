@@ -1,0 +1,4 @@
+Name: Nissan Skyline GT-R R33 Le Mans Edition
+Link: https://www.gta5-mods.com/vehicles/le-mans-edition-r33-gtr-callumxgaming22
+Poly's: 342K
+Spawnname: streetr32
