@@ -12,3 +12,18 @@ Name: 2020 Nissan GT-R Nismo
 Link: https://nl.gta5-mods.com/vehicles/2020-nissan-gt-r-nismo/download/73772
 Poly's: 520K 
 Spawnname: nismo20
+
+Name: Toyota Supra 1980 
+Link: https://nl.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning/download/83706
+Poly's: 280K
+Spawnname: toysupmk4
+
+Name: Toyota Supra 1980 
+Link: https://nl.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning/download/83706
+Poly's: 280K
+Spawnname: toysupmk4
+
+Name: Toyota Supra A90 
+Link: https://nl.gta5-mods.com/vehicles/streethunter-toyota-supra-a90-add-on
+Poly's: 280K
+Spawnname: a90sh
