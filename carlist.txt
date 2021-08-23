@@ -7,3 +7,8 @@ Name: Nissan Skyline GT-R R34
 Link: https://www.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr34-yca-y97y/download/14749
 Poly's: 157k 
 Spawnname: skyline
+
+Name: 2020 Nissan GT-R Nismo
+Link: https://nl.gta5-mods.com/vehicles/2020-nissan-gt-r-nismo/download/73772
+Poly's: 520K 
+Spawnname: nismo20
